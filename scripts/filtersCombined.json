@@ -1,0 +1,2382 @@
+[
+    {
+        "id": 5169,
+        "name": "Women T-shirts"
+    },
+    {
+        "id": 5170,
+        "name": "Women Tops And Tunics"
+    },
+    {
+        "id": 2139,
+        "name": "Analog Watches"
+    },
+    {
+        "id": 265,
+        "name": "Bangles & Bracelets"
+    },
+    {
+        "id": 1009,
+        "name": "Bedsheets"
+    },
+    {
+        "id": 1530,
+        "name": "Bike Covers"
+    },
+    {
+        "id": 5117,
+        "name": "Dresses"
+    },
+    {
+        "id": 984,
+        "name": "Dupatta Sets"
+    },
+    {
+        "id": 285,
+        "name": "Earrings & Studs"
+    },
+    {
+        "id": 614,
+        "name": "Flipflops & Slippers"
+    },
+    {
+        "id": 290,
+        "name": "Hair Accessories"
+    },
+    {
+        "id": 1154,
+        "name": "Idols & Figurines"
+    },
+    {
+        "id": 783,
+        "name": "Jars & Containers"
+    },
+    {
+        "id": 299,
+        "name": "Jeans"
+    },
+    {
+        "id": 300,
+        "name": "Jewellery Set"
+    },
+    {
+        "id": 5118,
+        "name": "Kids - Frocks & Dresses"
+    },
+    {
+        "id": 5127,
+        "name": "Kids - Girls Frocks & Dresses"
+    },
+    {
+        "id": 5180,
+        "name": "Kids Toys"
+    },
+    {
+        "id": 304,
+        "name": "Kitchen Storage"
+    },
+    {
+        "id": 786,
+        "name": "Kitchen Tools"
+    },
+    {
+        "id": 306,
+        "name": "Kurta Sets"
+    },
+    {
+        "id": 308,
+        "name": "Kurtis"
+    },
+    {
+        "id": 789,
+        "name": "Lunchbox & Bottles"
+    },
+    {
+        "id": 316,
+        "name": "Mangalsutras"
+    },
+    {
+        "id": 4124,
+        "name": "Men Jewellery"
+    },
+    {
+        "id": 5192,
+        "name": "Men Shirts"
+    },
+    {
+        "id": 5195,
+        "name": "Men T-shirts"
+    },
+    {
+        "id": 317,
+        "name": "Mobile Accessories"
+    },
+    {
+        "id": 2431,
+        "name": "Mobile Cases & Covers"
+    },
+    {
+        "id": 3566,
+        "name": "Motorcycle Covers"
+    },
+    {
+        "id": 320,
+        "name": "Nighties"
+    },
+    {
+        "id": 1056,
+        "name": "Puja Articles"
+    },
+    {
+        "id": 332,
+        "name": "Sarees"
+    },
+    {
+        "id": 334,
+        "name": "Shirts"
+    },
+    {
+        "id": 335,
+        "name": "Shoes"
+    },
+    {
+        "id": 344,
+        "name": "Suits & Dress Materials"
+    },
+    {
+        "id": 346,
+        "name": "Sweater And Sweatshirts"
+    },
+    {
+        "id": 347,
+        "name": "T-shirts"
+    },
+    {
+        "id": 348,
+        "name": "Tops And Bottom Sets"
+    },
+    {
+        "id": 349,
+        "name": "Tops And Tunics"
+    },
+    {
+        "id": 352,
+        "name": "Trousers & Pants"
+    },
+    {
+        "id": 5120,
+        "name": "Women Analog Watches"
+    },
+    {
+        "id": 5173,
+        "name": "Women Bangles & Bracelets"
+    },
+    {
+        "id": 5130,
+        "name": "Women Bra"
+    },
+    {
+        "id": 5134,
+        "name": "Women Dresses"
+    },
+    {
+        "id": 5199,
+        "name": "Women Dupatta Sets"
+    },
+    {
+        "id": 5201,
+        "name": "Women Kurta Sets"
+    },
+    {
+        "id": 5202,
+        "name": "Women Kurtis"
+    },
+    {
+        "id": 5133,
+        "name": "Women Panty & Briefs"
+    },
+    {
+        "id": 446,
+        "name": "Boys"
+    },
+    {
+        "id": 445,
+        "name": "Girls"
+    },
+    {
+        "id": 444,
+        "name": "Men"
+    },
+    {
+        "id": 443,
+        "name": "Women"
+    },
+    {
+        "id": 2322,
+        "name": "Beige"
+    },
+    {
+        "id": 4452,
+        "name": "Beige Men Jeans"
+    },
+    {
+        "id": 29,
+        "name": "Black"
+    },
+    {
+        "id": 31,
+        "name": "Blue"
+    },
+    {
+        "id": 32,
+        "name": "Brown"
+    },
+    {
+        "id": 3603,
+        "name": "Combo Of Different Color"
+    },
+    {
+        "id": 2329,
+        "name": "Combo Of Maroon Shade"
+    },
+    {
+        "id": 2324,
+        "name": "Combo Of Red Shade"
+    },
+    {
+        "id": 2227,
+        "name": "Gold"
+    },
+    {
+        "id": 36,
+        "name": "Grey"
+    },
+    {
+        "id": 37,
+        "name": "Khaki"
+    },
+    {
+        "id": 2328,
+        "name": "Light Pink"
+    },
+    {
+        "id": 2179,
+        "name": "Maroon"
+    },
+    {
+        "id": 4427,
+        "name": "Multicolor"
+    },
+    {
+        "id": 2326,
+        "name": "Nude"
+    },
+    {
+        "id": 40,
+        "name": "Olive"
+    },
+    {
+        "id": 41,
+        "name": "Orange"
+    },
+    {
+        "id": 2256,
+        "name": "Peach"
+    },
+    {
+        "id": 42,
+        "name": "Pink"
+    },
+    {
+        "id": 43,
+        "name": "Purple"
+    },
+    {
+        "id": 44,
+        "name": "Red"
+    },
+    {
+        "id": 2226,
+        "name": "Rose Gold"
+    },
+    {
+        "id": 47,
+        "name": "Silver"
+    },
+    {
+        "id": 33,
+        "name": "Skin"
+    },
+    {
+        "id": 5018,
+        "name": "Sky Blue"
+    },
+    {
+        "id": 2327,
+        "name": "Transparent"
+    },
+    {
+        "id": 30,
+        "name": "White"
+    },
+    {
+        "id": 2156,
+        "name": "Acrylic"
+    },
+    {
+        "id": 107,
+        "name": "Art Silk"
+    },
+    {
+        "id": 109,
+        "name": "Banarasi Silk"
+    },
+    {
+        "id": 111,
+        "name": "Chanderi Cotton"
+    },
+    {
+        "id": 112,
+        "name": "Chanderi Silk"
+    },
+    {
+        "id": 114,
+        "name": "Chiffon"
+    },
+    {
+        "id": 3638,
+        "name": "Cotton"
+    },
+    {
+        "id": 117,
+        "name": "Cotton Blend"
+    },
+    {
+        "id": 118,
+        "name": "Cotton Cambric"
+    },
+    {
+        "id": 119,
+        "name": "Cotton Linen"
+    },
+    {
+        "id": 120,
+        "name": "Cotton Lycra"
+    },
+    {
+        "id": 121,
+        "name": "Cotton Silk"
+    },
+    {
+        "id": 122,
+        "name": "Cotton Slub"
+    },
+    {
+        "id": 123,
+        "name": "Crepe"
+    },
+    {
+        "id": 124,
+        "name": "Denim"
+    },
+    {
+        "id": 125,
+        "name": "Dupion Silk"
+    },
+    {
+        "id": 127,
+        "name": "Fleece"
+    },
+    {
+        "id": 128,
+        "name": "Georgette"
+    },
+    {
+        "id": 129,
+        "name": "Glace Cotton"
+    },
+    {
+        "id": 130,
+        "name": "Hosiery"
+    },
+    {
+        "id": 131,
+        "name": "Hosiery Cotton"
+    },
+    {
+        "id": 132,
+        "name": "Jacquard"
+    },
+    {
+        "id": 137,
+        "name": "Kanjeevaram Silk"
+    },
+    {
+        "id": 138,
+        "name": "Khadi Cotton"
+    },
+    {
+        "id": 142,
+        "name": "Leather"
+    },
+    {
+        "id": 143,
+        "name": "Linen"
+    },
+    {
+        "id": 144,
+        "name": "Lycra"
+    },
+    {
+        "id": 146,
+        "name": "Microfiber"
+    },
+    {
+        "id": 149,
+        "name": "Mulmul"
+    },
+    {
+        "id": 152,
+        "name": "Net"
+    },
+    {
+        "id": 153,
+        "name": "Nylon"
+    },
+    {
+        "id": 156,
+        "name": "Organza"
+    },
+    {
+        "id": 159,
+        "name": "Poly Cotton"
+    },
+    {
+        "id": 160,
+        "name": "Poly Silk"
+    },
+    {
+        "id": 161,
+        "name": "Polyester"
+    },
+    {
+        "id": 165,
+        "name": "Rayon"
+    },
+    {
+        "id": 166,
+        "name": "Rayon Slub"
+    },
+    {
+        "id": 168,
+        "name": "Satin"
+    },
+    {
+        "id": 169,
+        "name": "Satin Silk"
+    },
+    {
+        "id": 171,
+        "name": "Silk"
+    },
+    {
+        "id": 172,
+        "name": "Silk Blend"
+    },
+    {
+        "id": 173,
+        "name": "Soft Silk"
+    },
+    {
+        "id": 176,
+        "name": "Synthetic"
+    },
+    {
+        "id": 177,
+        "name": "Taffeta Silk"
+    },
+    {
+        "id": 179,
+        "name": "Tissue"
+    },
+    {
+        "id": 181,
+        "name": "Velvet"
+    },
+    {
+        "id": 183,
+        "name": "Viscose"
+    },
+    {
+        "id": 184,
+        "name": "Viscose Rayon"
+    },
+    {
+        "id": 186,
+        "name": "Wool"
+    },
+    {
+        "id": 5038,
+        "name": "Round"
+    },
+    {
+        "id": 524,
+        "name": "0-2 Years"
+    },
+    {
+        "id": 831,
+        "name": "1.5 meters"
+    },
+    {
+        "id": 486,
+        "name": "10"
+    },
+    {
+        "id": 527,
+        "name": "10-16 Years"
+    },
+    {
+        "id": 530,
+        "name": "2-5 Years"
+    },
+    {
+        "id": 475,
+        "name": "2.4"
+    },
+    {
+        "id": 477,
+        "name": "2.6"
+    },
+    {
+        "id": 478,
+        "name": "2.8"
+    },
+    {
+        "id": 502,
+        "name": "26"
+    },
+    {
+        "id": 503,
+        "name": "28"
+    },
+    {
+        "id": 534,
+        "name": "28A"
+    },
+    {
+        "id": 535,
+        "name": "28B"
+    },
+    {
+        "id": 536,
+        "name": "28C"
+    },
+    {
+        "id": 537,
+        "name": "28D"
+    },
+    {
+        "id": 538,
+        "name": "28E"
+    },
+    {
+        "id": 504,
+        "name": "30"
+    },
+    {
+        "id": 543,
+        "name": "30A"
+    },
+    {
+        "id": 544,
+        "name": "30B"
+    },
+    {
+        "id": 545,
+        "name": "30C"
+    },
+    {
+        "id": 546,
+        "name": "30D"
+    },
+    {
+        "id": 505,
+        "name": "32"
+    },
+    {
+        "id": 548,
+        "name": "32A"
+    },
+    {
+        "id": 549,
+        "name": "32B"
+    },
+    {
+        "id": 550,
+        "name": "32C"
+    },
+    {
+        "id": 551,
+        "name": "32D"
+    },
+    {
+        "id": 507,
+        "name": "34"
+    },
+    {
+        "id": 553,
+        "name": "34A"
+    },
+    {
+        "id": 554,
+        "name": "34B"
+    },
+    {
+        "id": 555,
+        "name": "34C"
+    },
+    {
+        "id": 556,
+        "name": "34D"
+    },
+    {
+        "id": 509,
+        "name": "36"
+    },
+    {
+        "id": 558,
+        "name": "36A"
+    },
+    {
+        "id": 559,
+        "name": "36B"
+    },
+    {
+        "id": 511,
+        "name": "38"
+    },
+    {
+        "id": 564,
+        "name": "38B"
+    },
+    {
+        "id": 513,
+        "name": "40"
+    },
+    {
+        "id": 571,
+        "name": "40B"
+    },
+    {
+        "id": 515,
+        "name": "42"
+    },
+    {
+        "id": 576,
+        "name": "4XL"
+    },
+    {
+        "id": 579,
+        "name": "5-10 Years"
+    },
+    {
+        "id": 581,
+        "name": "5XL"
+    },
+    {
+        "id": 484,
+        "name": "8"
+    },
+    {
+        "id": 485,
+        "name": "9"
+    },
+    {
+        "id": 596,
+        "name": "L"
+    },
+    {
+        "id": 597,
+        "name": "M"
+    },
+    {
+        "id": 599,
+        "name": "S"
+    },
+    {
+        "id": 601,
+        "name": "Xl"
+    },
+    {
+        "id": 602,
+        "name": "Xs"
+    },
+    {
+        "id": 604,
+        "name": "XXS"
+    },
+    {
+        "id": 605,
+        "name": "Xxxl"
+    },
+    {
+        "id": 840,
+        "name": "Under \u20b9 149"
+    },
+    {
+        "id": 841,
+        "name": "Under \u20b9 199"
+    },
+    {
+        "id": 842,
+        "name": "Under \u20b9 249"
+    },
+    {
+        "id": 843,
+        "name": "Under \u20b9 299"
+    },
+    {
+        "id": 2147,
+        "name": "Under \u20b9 349"
+    },
+    {
+        "id": 2148,
+        "name": "Under \u20b9 399"
+    },
+    {
+        "id": 973,
+        "name": "Under \u20b9 449"
+    },
+    {
+        "id": 844,
+        "name": "Under \u20b9 499"
+    },
+    {
+        "id": 839,
+        "name": "Under \u20b9 99"
+    },
+    {
+        "id": 447,
+        "name": "\u20b9 0  - \u20b9 99"
+    },
+    {
+        "id": 448,
+        "name": "\u20b9 100  - \u20b9 149"
+    },
+    {
+        "id": 449,
+        "name": "\u20b9 150  - \u20b9 199"
+    },
+    {
+        "id": 450,
+        "name": "\u20b9 200  - \u20b9 249"
+    },
+    {
+        "id": 451,
+        "name": "\u20b9 250 - \u20b9 299"
+    },
+    {
+        "id": 452,
+        "name": "\u20b9 300 - \u20b9 399"
+    },
+    {
+        "id": 453,
+        "name": "\u20b9 400 - \u20b9 499"
+    },
+    {
+        "id": 454,
+        "name": "\u20b9 500 - \u20b9 599"
+    },
+    {
+        "id": 630,
+        "name": "\u20b9 600 - \u20b9 699"
+    },
+    {
+        "id": 631,
+        "name": "\u20b9 700 - \u20b9 799"
+    },
+    {
+        "id": 632,
+        "name": "\u20b9 800 & Above"
+    },
+    {
+        "id": 456,
+        "name": "2.0 and above"
+    },
+    {
+        "id": 457,
+        "name": "3.0 and above"
+    },
+    {
+        "id": 455,
+        "name": "3.5 and above"
+    },
+    {
+        "id": 458,
+        "name": "4.0 And Above"
+    },
+    {
+        "id": 654,
+        "name": "M-Trusted"
+    },
+    {
+        "id": 4686,
+        "name": "Bridal"
+    },
+    {
+        "id": 4378,
+        "name": "Festive"
+    },
+    {
+        "id": 4580,
+        "name": "Acrylic"
+    },
+    {
+        "id": 4581,
+        "name": "Polycotton"
+    },
+    {
+        "id": 4582,
+        "name": "Purple"
+    },
+    {
+        "id": 1,
+        "name": "Combos"
+    },
+    {
+        "id": 756,
+        "name": "Multipack"
+    },
+    {
+        "id": 763,
+        "name": "Pack of 1"
+    },
+    {
+        "id": 757,
+        "name": "Pack of 12"
+    },
+    {
+        "id": 762,
+        "name": "Pack of 2"
+    },
+    {
+        "id": 761,
+        "name": "Pack of 3"
+    },
+    {
+        "id": 760,
+        "name": "Pack of 4"
+    },
+    {
+        "id": 759,
+        "name": "Pack of 5"
+    },
+    {
+        "id": 758,
+        "name": "Pack of 6"
+    },
+    {
+        "id": 2178,
+        "name": "Pack Of 7"
+    },
+    {
+        "id": 2177,
+        "name": "Pack Of 8"
+    },
+    {
+        "id": 2176,
+        "name": "Pack Of 9"
+    },
+    {
+        "id": 2,
+        "name": "Single"
+    },
+    {
+        "id": 459,
+        "name": "10% And Above"
+    },
+    {
+        "id": 460,
+        "name": "20% And Above"
+    },
+    {
+        "id": 461,
+        "name": "30% And Above"
+    },
+    {
+        "id": 462,
+        "name": "40% And Above"
+    },
+    {
+        "id": 463,
+        "name": "50% And Above"
+    },
+    {
+        "id": 464,
+        "name": "60% And Above"
+    },
+    {
+        "id": 465,
+        "name": "70% And Above"
+    },
+    {
+        "id": 466,
+        "name": "80% And Above"
+    },
+    {
+        "id": 983,
+        "name": "All discounted"
+    },
+    {
+        "id": 853,
+        "name": "Deals"
+    },
+    {
+        "id": 4721,
+        "name": "No"
+    },
+    {
+        "id": 4854,
+        "name": "Carpet Sofa"
+    },
+    {
+        "id": 3763,
+        "name": "Get Coins"
+    },
+    {
+        "id": 4525,
+        "name": "Abs Plastic"
+    },
+    {
+        "id": 5208,
+        "name": "Premium Products"
+    },
+    {
+        "id": 4314,
+        "name": "Mall Brands"
+    },
+    {
+        "id": 902,
+        "name": "A-line"
+    },
+    {
+        "id": 5205,
+        "name": "Anarkali"
+    },
+    {
+        "id": 5206,
+        "name": "Angrakha"
+    },
+    {
+        "id": 903,
+        "name": "Asymmetrical"
+    },
+    {
+        "id": 5207,
+        "name": "Blouson"
+    },
+    {
+        "id": 904,
+        "name": "Bodycon"
+    },
+    {
+        "id": 4438,
+        "name": "Cargo"
+    },
+    {
+        "id": 905,
+        "name": "Flared"
+    },
+    {
+        "id": 906,
+        "name": "High-Slit"
+    },
+    {
+        "id": 907,
+        "name": "Layered"
+    },
+    {
+        "id": 908,
+        "name": "Pencil"
+    },
+    {
+        "id": 909,
+        "name": "Peplum"
+    },
+    {
+        "id": 910,
+        "name": "Pleated"
+    },
+    {
+        "id": 4496,
+        "name": "Regular"
+    },
+    {
+        "id": 4592,
+        "name": "Regular Fit"
+    },
+    {
+        "id": 4593,
+        "name": "Tummy"
+    },
+    {
+        "id": 912,
+        "name": "Wrap"
+    },
+    {
+        "id": 3875,
+        "name": "Fabric"
+    },
+    {
+        "id": 2207,
+        "name": "Acrylic"
+    },
+    {
+        "id": 3678,
+        "name": "Alloy Steel"
+    },
+    {
+        "id": 693,
+        "name": "Aluminium"
+    },
+    {
+        "id": 5020,
+        "name": "Arcylic"
+    },
+    {
+        "id": 4954,
+        "name": "Beads"
+    },
+    {
+        "id": 694,
+        "name": "Bone China"
+    },
+    {
+        "id": 4150,
+        "name": "Canvas & Leather"
+    },
+    {
+        "id": 696,
+        "name": "Ceramic"
+    },
+    {
+        "id": 697,
+        "name": "Clay"
+    },
+    {
+        "id": 698,
+        "name": "Copper"
+    },
+    {
+        "id": 5017,
+        "name": "Cotton, Polyester"
+    },
+    {
+        "id": 5027,
+        "name": "Denim"
+    },
+    {
+        "id": 2870,
+        "name": "Duct Tape"
+    },
+    {
+        "id": 3591,
+        "name": "Elastic"
+    },
+    {
+        "id": 4965,
+        "name": "Fiber"
+    },
+    {
+        "id": 3767,
+        "name": "Fibre"
+    },
+    {
+        "id": 2869,
+        "name": "Foam"
+    },
+    {
+        "id": 3703,
+        "name": "Foam Grip"
+    },
+    {
+        "id": 2200,
+        "name": "Foil"
+    },
+    {
+        "id": 700,
+        "name": "Glass"
+    },
+    {
+        "id": 701,
+        "name": "Iron"
+    },
+    {
+        "id": 4156,
+        "name": "Jute"
+    },
+    {
+        "id": 3679,
+        "name": "Latex"
+    },
+    {
+        "id": 2871,
+        "name": "Leather"
+    },
+    {
+        "id": 702,
+        "name": "Marble"
+    },
+    {
+        "id": 5026,
+        "name": "Mesh"
+    },
+    {
+        "id": 2866,
+        "name": "metal"
+    },
+    {
+        "id": 3706,
+        "name": "Neoprene"
+    },
+    {
+        "id": 706,
+        "name": "Plastic"
+    },
+    {
+        "id": 3769,
+        "name": "Plastic        "
+    },
+    {
+        "id": 3588,
+        "name": "Plastic Polymers"
+    },
+    {
+        "id": 2206,
+        "name": "Poly Cotton"
+    },
+    {
+        "id": 3587,
+        "name": "Polycotton"
+    },
+    {
+        "id": 2867,
+        "name": "Polyethylene"
+    },
+    {
+        "id": 2205,
+        "name": "Polypropylene"
+    },
+    {
+        "id": 707,
+        "name": "Porcelain"
+    },
+    {
+        "id": 2862,
+        "name": "PU Leather"
+    },
+    {
+        "id": 2204,
+        "name": "Rayon"
+    },
+    {
+        "id": 710,
+        "name": "Silicon"
+    },
+    {
+        "id": 2868,
+        "name": "Silicone"
+    },
+    {
+        "id": 711,
+        "name": "Steel"
+    },
+    {
+        "id": 712,
+        "name": "Stone"
+    },
+    {
+        "id": 4956,
+        "name": "Stretchy Cotton"
+    },
+    {
+        "id": 4147,
+        "name": "Suede"
+    },
+    {
+        "id": 2203,
+        "name": "Terracota"
+    },
+    {
+        "id": 2202,
+        "name": "Terry cotton"
+    },
+    {
+        "id": 4149,
+        "name": "Velvet"
+    },
+    {
+        "id": 2201,
+        "name": "Vinyl"
+    },
+    {
+        "id": 715,
+        "name": "2 mtrs"
+    },
+    {
+        "id": 716,
+        "name": "2.1 mtrs"
+    },
+    {
+        "id": 717,
+        "name": "2.2 mtrs"
+    },
+    {
+        "id": 718,
+        "name": "2.25 mtrs"
+    },
+    {
+        "id": 719,
+        "name": "2.3 mtrs"
+    },
+    {
+        "id": 720,
+        "name": "2.4 mtrs"
+    },
+    {
+        "id": 721,
+        "name": "2.5 mtrs"
+    },
+    {
+        "id": 722,
+        "name": "2.6 mtrs"
+    },
+    {
+        "id": 723,
+        "name": "2.7 mtrs"
+    },
+    {
+        "id": 724,
+        "name": "2.8 mtrs"
+    },
+    {
+        "id": 726,
+        "name": "3 mtrs"
+    },
+    {
+        "id": 4462,
+        "name": "Aztec"
+    },
+    {
+        "id": 2174,
+        "name": "Colourblock"
+    },
+    {
+        "id": 3666,
+        "name": "Dashboard and leather polish"
+    },
+    {
+        "id": 4418,
+        "name": "Foil Suits & Dress Materials"
+    },
+    {
+        "id": 4555,
+        "name": "Geometric"
+    },
+    {
+        "id": 813,
+        "name": "Ikat"
+    },
+    {
+        "id": 2225,
+        "name": "Knitted"
+    },
+    {
+        "id": 3667,
+        "name": "Multitools & accessories"
+    },
+    {
+        "id": 2188,
+        "name": "Newspaper Print"
+    },
+    {
+        "id": 817,
+        "name": "Paisley"
+    },
+    {
+        "id": 2187,
+        "name": "Polka Dots"
+    },
+    {
+        "id": 4507,
+        "name": "Quirky Kurti Fabric"
+    },
+    {
+        "id": 2186,
+        "name": "Self-Design"
+    },
+    {
+        "id": 4578,
+        "name": "Sequinned"
+    },
+    {
+        "id": 4510,
+        "name": "Shibori"
+    },
+    {
+        "id": 4439,
+        "name": "Woven Design"
+    },
+    {
+        "id": 886,
+        "name": "Anarkali"
+    },
+    {
+        "id": 887,
+        "name": "Banarasi"
+    },
+    {
+        "id": 888,
+        "name": "Flared"
+    },
+    {
+        "id": 889,
+        "name": "Gathered"
+    },
+    {
+        "id": 890,
+        "name": "Gujarati"
+    },
+    {
+        "id": 891,
+        "name": "Indo Western"
+    },
+    {
+        "id": 892,
+        "name": "Layered"
+    },
+    {
+        "id": 893,
+        "name": "Panelled"
+    },
+    {
+        "id": 894,
+        "name": "Rajputani"
+    },
+    {
+        "id": 895,
+        "name": "Art Silk"
+    },
+    {
+        "id": 896,
+        "name": "Georgette"
+    },
+    {
+        "id": 897,
+        "name": "Net"
+    },
+    {
+        "id": 4579,
+        "name": "No Bottomwear"
+    },
+    {
+        "id": 898,
+        "name": "Satin"
+    },
+    {
+        "id": 899,
+        "name": "Silk"
+    },
+    {
+        "id": 900,
+        "name": "Taffeta Silk"
+    },
+    {
+        "id": 901,
+        "name": "Velvet"
+    },
+    {
+        "id": 922,
+        "name": "Beads & Stones"
+    },
+    {
+        "id": 2196,
+        "name": "Buckle"
+    },
+    {
+        "id": 4354,
+        "name": "Cutwork"
+    },
+    {
+        "id": 2192,
+        "name": "Embellished"
+    },
+    {
+        "id": 4357,
+        "name": "Gota Work"
+    },
+    {
+        "id": 2161,
+        "name": "Lace border"
+    },
+    {
+        "id": 4504,
+        "name": "Patchwork"
+    },
+    {
+        "id": 4508,
+        "name": "Ruffle"
+    },
+    {
+        "id": 925,
+        "name": "Sequinned"
+    },
+    {
+        "id": 2193,
+        "name": "Tassels "
+    },
+    {
+        "id": 926,
+        "name": "Tassels And Latkans"
+    },
+    {
+        "id": 2258,
+        "name": "Checked"
+    },
+    {
+        "id": 878,
+        "name": "Embellished"
+    },
+    {
+        "id": 879,
+        "name": "Embroidered"
+    },
+    {
+        "id": 880,
+        "name": "Ethnic Motif"
+    },
+    {
+        "id": 881,
+        "name": "Floral"
+    },
+    {
+        "id": 882,
+        "name": "Jacquard"
+    },
+    {
+        "id": 2257,
+        "name": "Printed"
+    },
+    {
+        "id": 883,
+        "name": "Ruffle"
+    },
+    {
+        "id": 884,
+        "name": "Solid"
+    },
+    {
+        "id": 885,
+        "name": "Woven Design"
+    },
+    {
+        "id": 876,
+        "name": "Border"
+    },
+    {
+        "id": 867,
+        "name": "Embellished"
+    },
+    {
+        "id": 868,
+        "name": "Embroidered"
+    },
+    {
+        "id": 869,
+        "name": "Fringed"
+    },
+    {
+        "id": 870,
+        "name": "Lace"
+    },
+    {
+        "id": 871,
+        "name": "No Border"
+    },
+    {
+        "id": 872,
+        "name": "Pom-Pom/Bobble"
+    },
+    {
+        "id": 873,
+        "name": "Printed"
+    },
+    {
+        "id": 874,
+        "name": "Solid"
+    },
+    {
+        "id": 875,
+        "name": "Tassels and Latkans"
+    },
+    {
+        "id": 877,
+        "name": "Zari"
+    },
+    {
+        "id": 933,
+        "name": "Aari Work"
+    },
+    {
+        "id": 935,
+        "name": "Beads & Stones"
+    },
+    {
+        "id": 936,
+        "name": "Bow"
+    },
+    {
+        "id": 3644,
+        "name": "Car Body"
+    },
+    {
+        "id": 937,
+        "name": "Cut Work"
+    },
+    {
+        "id": 938,
+        "name": "Cut-out"
+    },
+    {
+        "id": 2183,
+        "name": "Cutout"
+    },
+    {
+        "id": 2182,
+        "name": "Cutwork"
+    },
+    {
+        "id": 2184,
+        "name": "Embellished"
+    },
+    {
+        "id": 939,
+        "name": "Fringed"
+    },
+    {
+        "id": 940,
+        "name": "Gota Work"
+    },
+    {
+        "id": 3645,
+        "name": "interiors"
+    },
+    {
+        "id": 941,
+        "name": "Jacquard"
+    },
+    {
+        "id": 942,
+        "name": "Lace inserts"
+    },
+    {
+        "id": 943,
+        "name": "Mirror work"
+    },
+    {
+        "id": 944,
+        "name": "Pleated or Gathered"
+    },
+    {
+        "id": 945,
+        "name": "Ruffles"
+    },
+    {
+        "id": 946,
+        "name": "Sequinned"
+    },
+    {
+        "id": 947,
+        "name": "Sheen"
+    },
+    {
+        "id": 948,
+        "name": "Slit"
+    },
+    {
+        "id": 949,
+        "name": "Smocking or Shirred"
+    },
+    {
+        "id": 950,
+        "name": "Studded"
+    },
+    {
+        "id": 2181,
+        "name": "Tassels"
+    },
+    {
+        "id": 951,
+        "name": "Tie-Ups"
+    },
+    {
+        "id": 857,
+        "name": "Backless"
+    },
+    {
+        "id": 858,
+        "name": "Collar"
+    },
+    {
+        "id": 859,
+        "name": "Deep Scoop"
+    },
+    {
+        "id": 860,
+        "name": "Loop"
+    },
+    {
+        "id": 861,
+        "name": "Mid Scoop"
+    },
+    {
+        "id": 862,
+        "name": "Paan"
+    },
+    {
+        "id": 863,
+        "name": "Round Neck"
+    },
+    {
+        "id": 864,
+        "name": "Square Neck"
+    },
+    {
+        "id": 865,
+        "name": "Stylised"
+    },
+    {
+        "id": 866,
+        "name": "V neck"
+    },
+    {
+        "id": 953,
+        "name": "Applique"
+    },
+    {
+        "id": 958,
+        "name": "Embroidered"
+    },
+    {
+        "id": 960,
+        "name": "Printed"
+    },
+    {
+        "id": 962,
+        "name": "Solid"
+    },
+    {
+        "id": 913,
+        "name": "Cancan"
+    },
+    {
+        "id": 914,
+        "name": "Cotton"
+    },
+    {
+        "id": 915,
+        "name": "Polyester"
+    },
+    {
+        "id": 916,
+        "name": "Satin"
+    },
+    {
+        "id": 918,
+        "name": "Powerloom"
+    },
+    {
+        "id": 964,
+        "name": "Crop Top"
+    },
+    {
+        "id": 965,
+        "name": "Jacket"
+    },
+    {
+        "id": 969,
+        "name": "Sweatshirts"
+    },
+    {
+        "id": 970,
+        "name": "T-Shirt"
+    },
+    {
+        "id": 971,
+        "name": "Tunic"
+    },
+    {
+        "id": 1302,
+        "name": "Apple iphone"
+    },
+    {
+        "id": 1303,
+        "name": "Huawei"
+    },
+    {
+        "id": 2210,
+        "name": "Mamaearth"
+    },
+    {
+        "id": 1420,
+        "name": "Nokia"
+    },
+    {
+        "id": 1421,
+        "name": "Oneplus"
+    },
+    {
+        "id": 1080,
+        "name": "Oppo"
+    },
+    {
+        "id": 1082,
+        "name": "Realme"
+    },
+    {
+        "id": 1081,
+        "name": "Redmi"
+    },
+    {
+        "id": 1042,
+        "name": "Vivo"
+    },
+    {
+        "id": 1847,
+        "name": "Mi Redmi"
+    },
+    {
+        "id": 1826,
+        "name": "Mi Redmi 9 Prime"
+    },
+    {
+        "id": 1033,
+        "name": "Mi Redmi 9A"
+    },
+    {
+        "id": 1679,
+        "name": "OPPO A12"
+    },
+    {
+        "id": 1038,
+        "name": "OPPO A15"
+    },
+    {
+        "id": 1675,
+        "name": "OPPO A31"
+    },
+    {
+        "id": 1669,
+        "name": "OPPO A3s"
+    },
+    {
+        "id": 978,
+        "name": "OPPO A5"
+    },
+    {
+        "id": 1667,
+        "name": "OPPO A5 2020"
+    },
+    {
+        "id": 1666,
+        "name": "OPPO A52"
+    },
+    {
+        "id": 981,
+        "name": "OPPO A53"
+    },
+    {
+        "id": 1661,
+        "name": "OPPO A54"
+    },
+    {
+        "id": 977,
+        "name": "OPPO A5s"
+    },
+    {
+        "id": 1644,
+        "name": "OPPO F11 Pro"
+    },
+    {
+        "id": 1643,
+        "name": "OPPO F15"
+    },
+    {
+        "id": 1642,
+        "name": "OPPO F17"
+    },
+    {
+        "id": 1034,
+        "name": "OPPO F17 PRO"
+    },
+    {
+        "id": 1640,
+        "name": "OPPO F19"
+    },
+    {
+        "id": 1639,
+        "name": "OPPO F19 Pro"
+    },
+    {
+        "id": 1604,
+        "name": "Others"
+    },
+    {
+        "id": 1594,
+        "name": "POCO C3"
+    },
+    {
+        "id": 1583,
+        "name": "Realme 2"
+    },
+    {
+        "id": 1581,
+        "name": "Realme 3"
+    },
+    {
+        "id": 1580,
+        "name": "Realme 3 Pro"
+    },
+    {
+        "id": 1578,
+        "name": "Realme 5"
+    },
+    {
+        "id": 1577,
+        "name": "Realme 5 Pro"
+    },
+    {
+        "id": 1573,
+        "name": "Realme 6"
+    },
+    {
+        "id": 1569,
+        "name": "Realme 7"
+    },
+    {
+        "id": 1567,
+        "name": "Realme 7i"
+    },
+    {
+        "id": 1560,
+        "name": "Realme C11"
+    },
+    {
+        "id": 1031,
+        "name": "Realme C12"
+    },
+    {
+        "id": 1558,
+        "name": "Realme C15"
+    },
+    {
+        "id": 1037,
+        "name": "Realme C2"
+    },
+    {
+        "id": 1553,
+        "name": "realme C20"
+    },
+    {
+        "id": 1552,
+        "name": "realme C21"
+    },
+    {
+        "id": 1550,
+        "name": "Realme C3"
+    },
+    {
+        "id": 1180,
+        "name": "Vivo S1"
+    },
+    {
+        "id": 1041,
+        "name": "Vivo S1 Pro"
+    },
+    {
+        "id": 1123,
+        "name": "Vivo Y17"
+    },
+    {
+        "id": 1120,
+        "name": "Vivo Y19"
+    },
+    {
+        "id": 1115,
+        "name": "Vivo Y21"
+    },
+    {
+        "id": 1113,
+        "name": "Vivo Y22"
+    },
+    {
+        "id": 1107,
+        "name": "Vivo Y50"
+    },
+    {
+        "id": 2228,
+        "name": "1 Month"
+    },
+    {
+        "id": 2231,
+        "name": "1 Year"
+    },
+    {
+        "id": 2229,
+        "name": "3 Months"
+    },
+    {
+        "id": 2230,
+        "name": "6 Months"
+    },
+    {
+        "id": 4401,
+        "name": "Mid Rise"
+    },
+    {
+        "id": 2236,
+        "name": "Waist Rise"
+    },
+    {
+        "id": 2237,
+        "name": "Dungarees"
+    },
+    {
+        "id": 4573,
+        "name": "Gharara"
+    },
+    {
+        "id": 4576,
+        "name": "Leggings/Tights"
+    },
+    {
+        "id": 2238,
+        "name": "Lounge Pant"
+    },
+    {
+        "id": 2239,
+        "name": "Palazzos"
+    },
+    {
+        "id": 2240,
+        "name": "Shorts"
+    },
+    {
+        "id": 2249,
+        "name": "Block Heel"
+    },
+    {
+        "id": 2251,
+        "name": "Comfort Heel"
+    },
+    {
+        "id": 2253,
+        "name": "Slim Heel"
+    },
+    {
+        "id": 2254,
+        "name": "Wedges"
+    },
+    {
+        "id": 2246,
+        "name": "Asymetrical"
+    },
+    {
+        "id": 2252,
+        "name": "Kings & Queens"
+    },
+    {
+        "id": 2242,
+        "name": "Round"
+    },
+    {
+        "id": 2255,
+        "name": "Solid"
+    },
+    {
+        "id": 2250,
+        "name": "Square"
+    },
+    {
+        "id": 2332,
+        "name": "Anti ageing"
+    },
+    {
+        "id": 2336,
+        "name": "Dandruff"
+    },
+    {
+        "id": 2335,
+        "name": "Hair Growth"
+    },
+    {
+        "id": 2401,
+        "name": "3D"
+    },
+    {
+        "id": 4226,
+        "name": "Active Belts"
+    },
+    {
+        "id": 4159,
+        "name": "Banana Clip"
+    },
+    {
+        "id": 2828,
+        "name": "Basic"
+    },
+    {
+        "id": 4265,
+        "name": "Birthstone Rings"
+    },
+    {
+        "id": 4967,
+        "name": "Bobby Pin"
+    },
+    {
+        "id": 4978,
+        "name": "Buckle"
+    },
+    {
+        "id": 4276,
+        "name": "Card and Money Organisers"
+    },
+    {
+        "id": 4234,
+        "name": "Chain"
+    },
+    {
+        "id": 2342,
+        "name": "Cream"
+    },
+    {
+        "id": 4272,
+        "name": "Embroidered"
+    },
+    {
+        "id": 2608,
+        "name": "Fitted Bedsheets"
+    },
+    {
+        "id": 2607,
+        "name": "Flat Sheets"
+    },
+    {
+        "id": 4995,
+        "name": "Floral Styled Hair Accessories"
+    },
+    {
+        "id": 2347,
+        "name": "Gel"
+    },
+    {
+        "id": 4321,
+        "name": "Gujrati"
+    },
+    {
+        "id": 4244,
+        "name": "Hair Claw"
+    },
+    {
+        "id": 4245,
+        "name": "Hair Clip"
+    },
+    {
+        "id": 4988,
+        "name": "Hair clips"
+    },
+    {
+        "id": 4957,
+        "name": "Hair Combs"
+    },
+    {
+        "id": 2390,
+        "name": "Hooded"
+    },
+    {
+        "id": 4264,
+        "name": "Indo Western"
+    },
+    {
+        "id": 4322,
+        "name": "Jaipuri Designs"
+    },
+    {
+        "id": 4974,
+        "name": "Jeweled Buckle Belt"
+    },
+    {
+        "id": 4324,
+        "name": "Kashmiri"
+    },
+    {
+        "id": 2389,
+        "name": "Kids"
+    },
+    {
+        "id": 4325,
+        "name": "Kota Doria"
+    },
+    {
+        "id": 4975,
+        "name": "Lace-Up Belt"
+    },
+    {
+        "id": 2341,
+        "name": "Liquid"
+    },
+    {
+        "id": 2351,
+        "name": "Loose Powder"
+    },
+    {
+        "id": 4327,
+        "name": "Lucknowi"
+    },
+    {
+        "id": 4328,
+        "name": "Macrame"
+    },
+    {
+        "id": 2384,
+        "name": "Others"
+    },
+    {
+        "id": 4332,
+        "name": "Patiala Suits"
+    },
+    {
+        "id": 2344,
+        "name": "Pencil"
+    },
+    {
+        "id": 4952,
+        "name": "Plant Containers"
+    },
+    {
+        "id": 4333,
+        "name": "Punjabi/All Over Suits"
+    },
+    {
+        "id": 4334,
+        "name": "Rajputi"
+    },
+    {
+        "id": 4964,
+        "name": "Rhinestone Belt"
+    },
+    {
+        "id": 4958,
+        "name": "Rubber Band"
+    },
+    {
+        "id": 4992,
+        "name": "Rubber Band/Scrunchie"
+    },
+    {
+        "id": 4973,
+        "name": "Saree Belt"
+    },
+    {
+        "id": 4337,
+        "name": "South Cotton Suit"
+    },
+    {
+        "id": 4962,
+        "name": "Studded Belt"
+    },
+    {
+        "id": 4338,
+        "name": "Suits with Phulkari Dupatta"
+    },
+    {
+        "id": 4963,
+        "name": "T-Lock Belt"
+    },
+    {
+        "id": 4971,
+        "name": "Tiara"
+    },
+    {
+        "id": 4985,
+        "name": "Traditional Caps"
+    },
+    {
+        "id": 4873,
+        "name": "Two Fold"
+    },
+    {
+        "id": 2346,
+        "name": "Waterproof"
+    },
+    {
+        "id": 4907,
+        "name": "Maroon"
+    },
+    {
+        "id": 4906,
+        "name": "Purple"
+    },
+    {
+        "id": 4904,
+        "name": "Red"
+    },
+    {
+        "id": 4915,
+        "name": "Acetate Men Frames"
+    },
+    {
+        "id": 4758,
+        "name": "Acetate Women Frames"
+    },
+    {
+        "id": 4919,
+        "name": "Acrylic Men Frames"
+    },
+    {
+        "id": 4764,
+        "name": "Acrylic Women Frames"
+    },
+    {
+        "id": 4918,
+        "name": "Alloy"
+    },
+    {
+        "id": 4762,
+        "name": "Metal & Plastic"
+    },
+    {
+        "id": 4757,
+        "name": "Polycarbonate (PC)"
+    },
+    {
+        "id": 4917,
+        "name": "Steel"
+    },
+    {
+        "id": 4914,
+        "name": "Tr-90 Men Frames"
+    },
+    {
+        "id": 4756,
+        "name": "Tr-90 Women Frames"
+    },
+    {
+        "id": 4761,
+        "name": "Composite"
+    },
+    {
+        "id": 4760,
+        "name": "Glass"
+    },
+    {
+        "id": 4779,
+        "name": "Cat Eye"
+    },
+    {
+        "id": 4929,
+        "name": "Clubmaster"
+    },
+    {
+        "id": 4931,
+        "name": "Hexagon"
+    },
+    {
+        "id": 4786,
+        "name": "Oval"
+    },
+    {
+        "id": 4923,
+        "name": "Round"
+    },
+    {
+        "id": 4933,
+        "name": "Classic"
+    },
+    {
+        "id": 4932,
+        "name": "Cool/Trendy"
+    },
+    {
+        "id": 4935,
+        "name": "Designer"
+    },
+    {
+        "id": 4936,
+        "name": "Retro/Vintage"
+    },
+    {
+        "id": 4833,
+        "name": "Full-rim"
+    },
+    {
+        "id": 4834,
+        "name": "Half-rim"
+    },
+    {
+        "id": 4835,
+        "name": "Rimless"
+    },
+    {
+        "id": 4839,
+        "name": "1 - 5 Slots"
+    },
+    {
+        "id": 4836,
+        "name": "11-15 Slots"
+    },
+    {
+        "id": 4840,
+        "name": "16-20 Slots"
+    },
+    {
+        "id": 4838,
+        "name": "No Card Slot"
+    },
+    {
+        "id": 4886,
+        "name": "Alloy"
+    },
+    {
+        "id": 4885,
+        "name": "Brass"
+    },
+    {
+        "id": 4887,
+        "name": "Brass & Copper"
+    },
+    {
+        "id": 4891,
+        "name": "Copper"
+    },
+    {
+        "id": 4892,
+        "name": "German Silver"
+    },
+    {
+        "id": 4890,
+        "name": "Meta"
+    },
+    {
+        "id": 4888,
+        "name": "Others"
+    },
+    {
+        "id": 4889,
+        "name": "Silver"
+    },
+    {
+        "id": 4893,
+        "name": "Sterling Silver"
+    }
+]

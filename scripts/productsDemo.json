@@ -1,0 +1,98 @@
+[
+    {
+        "id":"999999999",
+        "title": "Chitrarekha Attractive Ku...",
+        "price": "₹195",
+        "rating": "4.0",
+        "review": "58433 Reviews",
+        "image": "/images/product1.webp",
+        "moreTxt": "+3 More",
+        "tags":[
+            "none"
+        ]
+    },
+    {
+        "id":"999999998",
+        "title": "Flawsome Fancy Boys To...",
+        "price": "₹142",
+        "rating": "4.1",
+        "review": "205461 Reviews",
+        "image": "/images/product2.webp",
+        "moreTxt": "+3 More",
+        "tags":[
+            "none"
+        ]
+    },
+    {
+        "id":"999999997",
+        "title": "Fancy Diyas & Lanterns",
+        "price": "₹167",
+        "rating": "4.1",
+        "review": "9876 Reviews",
+        "image": "/images/product3.webp",
+        "moreTxt": "",
+        "tags":[
+            "none"
+        ]
+    },
+    {
+        "id":"999999996",
+        "title": "Pretty Latest Women Shirts",
+        "price": "₹152",
+        "rating": "3.9",
+        "review": "42053 Reviews",
+        "image": "/images/product4.webp",
+        "moreTxt": "",
+        "tags":[
+            "none"
+        ]
+    },
+    {
+        "id":"999999995",
+        "title": "ADIVASI Advanced Sooth...",
+        "price": "₹108",
+        "rating": "3.9",
+        "review": "12018 Reviews",
+        "image": "/images/product5.webp",
+        "moreTxt": "+4 More",
+        "tags":[
+            "none"
+        ]
+    },
+    {
+        "id":"999999994",
+        "title": "Modern Attractive Men F...",
+        "price": "₹186",
+        "rating": "3.9",
+        "review": "1166 Reviews",
+        "image": "/images/product6.webp",
+        "moreTxt": "",
+        "tags":[
+            "none"
+        ]
+    },
+    {
+        "id":"999999993",
+        "title": "APPLE iPhone 13 Cases ...",
+        "price": "₹197",
+        "rating": "4.5",
+        "review": "1726 Reviews",
+        "image": "/images/product7.webp",
+        "moreTxt": "+2 More",
+        "tags":[
+            "none"
+        ]
+    },
+    {
+        "id":"999999992",
+        "title": "Charvi Voguish Women Kurt...",
+        "price": "₹535",
+        "rating": "4.2",
+        "review": "23492 Reviews",
+        "image": "/images/product8.webp",
+        "moreTxt": "",
+        "tags":[
+            "none"
+        ]
+    }
+]
